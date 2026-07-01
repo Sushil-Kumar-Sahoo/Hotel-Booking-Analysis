@@ -13,4 +13,4 @@ Rather than relying on generic, automated machine learning pipelines, this proje
 ## 🛠️ Tech Stack & Upcoming Architecture
 * **Analytics Engine:** Python, Jupyter Notebooks, Pandas, NumPy, SciPy
 * **Data Automation (In Progress):** GitHub Actions for continuous automated pipelines
-* **Reporting (In Progress):** Language-filtered weekly automated email dispatches and multi-format reporting utilities (CSV/Markdown)
+
